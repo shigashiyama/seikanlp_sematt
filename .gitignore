@@ -1,0 +1,8 @@
+*~
+*pyc
+log/
+out/
+data/
+models/main/
+__pycache__
+!.gitkeep
