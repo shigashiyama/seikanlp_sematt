@@ -1,4 +1,4 @@
-# seikanlp_sematt
+G# seikanlp_sematt
 
 This is a tagger program for a specific tagging task.
 
@@ -44,12 +44,12 @@ Descriptions of options are shown by executing src/seikanlp.py with --help/-h op
 
 ## License
 
-Copyright (c) 2019 Shohei Higashiyama
+Copyright (c) 2019,   200~National Institute of Information and Communications Technology  
 Released under the MIT license https://opensource.org/licenses/mit-license.php
 
 
 ## Contact
 
-Shohei Higashiyama
-National Institute of Information and Communications Technology (NICT), Seika-cho, Kyoto, Japan
+Shohei Higashiyama  
+National Institute of Information and Communications Technology (NICT), Seika-cho, Kyoto, Japan  
 shohei.higashiyama [at] nict.go.jp
