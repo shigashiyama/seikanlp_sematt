@@ -44,7 +44,7 @@ Descriptions of options are shown by executing src/seikanlp.py with --help/-h op
 
 ## License
 
-Copyright (c) 2019,   200~National Institute of Information and Communications Technology  
+Copyright (c) 2019, National Institute of Information and Communications Technology  
 Released under the MIT license https://opensource.org/licenses/mit-license.php
 
 
