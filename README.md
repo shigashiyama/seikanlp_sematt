@@ -1,11 +1,11 @@
-G# seikanlp_sematt
+# seikanlp_sematt
 
 This is a tagger program for a specific tagging task.
 
 
 ## Requirements
 
-- SeikaNLP version 0.2.0
+- SeikaNLP version 0.2.0 or later
 
 
 ## Installation
